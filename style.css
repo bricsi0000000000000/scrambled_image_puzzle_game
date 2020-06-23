@@ -8,10 +8,6 @@ body{
   margin: auto;
 }
 
-.cell{
-  float: left;
-}
-
 .row{
   display: table;
 }
